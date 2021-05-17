@@ -1,0 +1,15 @@
+src,dst,relationship,cost
+"Pekin","Mishan","EROAD",1410
+"Tyanzin","Mishan","EROAD",1373
+"Pekin","Tyanzin","EROAD",105
+"Tyanzin","Shanhai","EROAD",974
+"Shanhai","Fuchjoy","EROAD",609
+"Fuchjoy","Chunzin","EROAD",1264
+"Chunzin","Nanian","EROAD",669
+"Nanian","Fuchjoy","EROAD",1008
+"Nanian","Shanhai","EROAD",872
+"Nanian","Kaifun","EROAD",253
+"Kaifun","Sian","EROAD",505
+"Sian","Nanian","EROAD",361
+"Sian","Lanchjoy","EROAD",500
+"Lanchjoy","Pekin","EROAD",1183
